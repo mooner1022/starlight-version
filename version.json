@@ -1,0 +1,17 @@
+{
+    "snapshot": {
+        "version": "0.1.0a-230821",
+        "versionCode": 0,
+        "downloadUrl": "https://discord.com/channels/1047500814584926209/1106997962879545364/1143161352148504596"
+    },
+    "beta": {
+        "version": "0.1.0a-230821",
+        "versionCode": 0,
+        "downloadUrl": "https://discord.com/channels/1047500814584926209/1106997962879545364/1143161352148504596"
+    },
+    "release": {
+        "version": "0.1.0a-230821",
+        "versionCode": 0,
+        "downloadUrl": "https://discord.com/channels/1047500814584926209/1106997962879545364/1143161352148504596"
+    }
+}
