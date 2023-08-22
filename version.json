@@ -1,17 +1,17 @@
 {
     "snapshot": {
-        "version": "0.1.0a-230821",
+        "version": "0.1.0a-230823",
         "versionCode": 0,
-        "downloadUrl": "https://cdn.discordapp.com/attachments/1106997962879545364/1143161351758422036/app-release.apk"
+        "downloadUrl": "https://cdn.discordapp.com/attachments/1106997962879545364/1143593888456650914/app-release.apk"
     },
     "beta": {
-        "version": "0.1.0a-230821",
+        "version": "0.1.0a-230823",
         "versionCode": 0,
-        "downloadUrl": "https://cdn.discordapp.com/attachments/1106997962879545364/1143161351758422036/app-release.apk"
+        "downloadUrl": "https://cdn.discordapp.com/attachments/1106997962879545364/1143593888456650914/app-release.apk"
     },
     "release": {
-        "version": "0.1.0a-230821",
+        "version": "0.1.0a-230823",
         "versionCode": 0,
-        "downloadUrl": "https://cdn.discordapp.com/attachments/1106997962879545364/1143161351758422036/app-release.apk"
+        "downloadUrl": "https://cdn.discordapp.com/attachments/1106997962879545364/1143593888456650914/app-release.apk"
     }
 }
