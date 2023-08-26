@@ -1,17 +1,17 @@
 {
     "snapshot": {
-        "version": "0.1.0a-230825",
+        "version": "0.1.0a-230827",
         "versionCode": 0,
-        "downloadUrl": "https://cdn.discordapp.com/attachments/1106997962879545364/1144557430454362182/app-release.apk"
+        "downloadUrl": "https://cdn.discordapp.com/attachments/1106997962879545364/1145043952312004628/StarLight-0.1.0a-230827-release.apk"
     },
     "beta": {
-        "version": "0.1.0a-230825",
+        "version": "0.1.0a-230826",
         "versionCode": 0,
-        "downloadUrl": "https://cdn.discordapp.com/attachments/1106997962879545364/1144557430454362182/app-release.apk"
+        "downloadUrl": "https://cdn.discordapp.com/attachments/1106997962879545364/1145043952312004628/StarLight-0.1.0a-230827-release.apk"
     },
     "release": {
-        "version": "0.1.0a-230825",
+        "version": "0.1.0a-230826",
         "versionCode": 0,
-        "downloadUrl": "https://cdn.discordapp.com/attachments/1106997962879545364/1144557430454362182/app-release.apk"
+        "downloadUrl": "https://cdn.discordapp.com/attachments/1106997962879545364/1145043952312004628/StarLight-0.1.0a-230827-release.apk"
     }
 }
