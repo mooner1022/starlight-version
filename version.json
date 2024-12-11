@@ -1,9 +1,9 @@
 {
     "snapshot": {
-        "version": "0.3.2a-241206",
-        "versionCode": 7,
+        "version": "0.3.2a",
+        "versionCode": 6,
         "changelog": "changes-0.3.2a.md",
-        "downloadUrl": "https://github.com/mooner1022/StarLight/actions/runs/12198504422/artifacts/2284592470"
+        "downloadUrl": "https://files.mooner.dev/starlight/build/snapshot/StarLight-0.3.2a-240822.apk"
     },
     "beta": {
         "version": "0.3.2a",
