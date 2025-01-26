@@ -66,8 +66,8 @@
 
 ### 도움 주신 분들
 #### Contributors
-[Ample(naijun0403)](https://github.com/naijun0403)  
-[shaper(shaper1234w)](https://github.com/shaper12340w)
++ [Ample(naijun0403)](https://github.com/naijun0403)  
++ [shaper(shaper1234w)](https://github.com/shaper12340w)
 
 `Yellu` - 버그 제보  
 `AlphaDo` - 버그 제보  
@@ -80,7 +80,7 @@
 `삼플` - 버그 제보  
 `미노` - 버그 제보  
 `thfzm` - 버그 제보  
-`shaper` - PR 제공  
+`shaper` - PR 제공, 후원  
 `bgyooPtr` - 버그 제보  
 `hahamini` - 버그 제보  
 
