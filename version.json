@@ -6,15 +6,15 @@
         "downloadUrl": "https://github.com/mooner1022/StarLight/releases/download/snapshot-1000188/StarLight-1.2.0-261114.apk"
     },
     "beta": {
-        "version": "1.1.0-261110",
-        "versionCode": 12,
-        "changelog": "changes-1.1.0.md",
-        "downloadUrl": "https://github.com/mooner1022/StarLight/releases/download/v1.1.0/StarLight-1.1.0-261110.apk"
+        "version": "1.2.0-261114",
+        "versionCode": 13,
+        "changelog": "changes-1.2.0.md",
+        "downloadUrl": "https://github.com/mooner1022/StarLight/releases/download/v1.2.0/StarLight-1.2.0-261114.apk"
     },
     "release": {
-        "version": "1.1.0-261110",
-        "versionCode": 12,
-        "changelog": "changes-1.1.0.md",
-        "downloadUrl": "https://github.com/mooner1022/StarLight/releases/download/v1.1.0/StarLight-1.1.0-261110.apk"
+        "version": "1.2.0-261114",
+        "versionCode": 13,
+        "changelog": "changes-1.2.0.md",
+        "downloadUrl": "https://github.com/mooner1022/StarLight/releases/download/v1.2.0/StarLight-1.2.0-261114.apk"
     }
 }
