@@ -1,9 +1,9 @@
 {
     "snapshot": {
         "version": "1.2.0-261121",
-        "versionCode": 1000189,
-        "changelog": "snapshot-1000189.md",
-        "downloadUrl": "https://github.com/mooner1022/StarLight/releases/download/snapshot-1000189/StarLight-1.2.0-261121.apk"
+        "versionCode": 1000190,
+        "changelog": "snapshot-1000190.md",
+        "downloadUrl": "https://github.com/mooner1022/StarLight/releases/download/snapshot-1000190/StarLight-1.2.0-261121.apk"
     },
     "beta": {
         "version": "1.2.0-261114",
